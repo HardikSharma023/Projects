@@ -4,7 +4,7 @@
 
 Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston and Seatle Airbnb datasets were collected and investigated. Three business questions were asked and answered:
 
-* Which (Boston/Seattle) is more visited and liked by costumers?
+* Is there any noticeable difference between Seattle and Boston Airbnb?
 * What are the important features to estimate rental price for Airbnb?
 * Which type of services are most used by costumers?
 
@@ -15,7 +15,7 @@ Based on Cross-Industry Standard Process of Data Mining (CRISP-DM), the Boston a
  [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
 
 ## Results of the analysis
-Results and discussion are published on Medium: [Link]()
+Results and discussion are published on Medium: [https://medium.com/@hardiksharma2304/data-tour-to-boston-and-seattle-e5467348bef5](https://medium.com/@hardiksharma2304/data-tour-to-boston-and-seattle-e5467348bef5)
 
 In this project, a deep analysis of the most recent Airbnb Boston and Seattle dataset is performed to answer the business problems:
 
