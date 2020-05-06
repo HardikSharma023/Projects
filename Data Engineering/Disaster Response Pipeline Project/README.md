@@ -34,9 +34,9 @@ In this project,Data Engineering skills are applied to analyze disaster data fro
 
 3. Go to http://0.0.0.0:3001/
 
-![ScreenShot](Disaster-Response.png)
+![Image](Disaster-Response.png)
 
 ## Example
 Type in: We have a Storm and Fire breakout at Children's Park, New Delhi.
 
-![Example](Classification.png)
+![Image](Classification.png)
